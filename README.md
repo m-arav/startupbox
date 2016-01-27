@@ -18,9 +18,9 @@ ImageHash
 
 # usage
 
-python sim_mod.py link1 link2
+python py-phash.py link1 link2
 
 for help use
 
-python sim_mod.py --help
+python py-phash.py --help
 
